@@ -17,6 +17,8 @@ Build a system to analyze customer demographics upon entering a retail store.
 - Large datasets of labelled images for age, gender, and emotion recognition.
 - Public datasets like UTK Faces and CK+ are recommended.
 
+**[Link to Training Data on Google Drive](insert_link_here)**
+
 ## Solution Approach
 
 **Deep Learning with CNNs:**
