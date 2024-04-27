@@ -35,8 +35,8 @@ Build a system to analyze customer demographics upon entering a retail store.
 
 ## Implementation Steps
 
-1. Load Pre-trained Models (or Train Your Own):
-   - Utilize provided pre-trained models or train custom models if desired.
+1. Load Pre-trained Models:
+   - Utilize provided pre-trained models.
    
 2. Image Prediction Script:
    - A script is included to load the models and predict demographics from test images.
