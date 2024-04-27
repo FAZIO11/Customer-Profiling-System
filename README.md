@@ -18,11 +18,8 @@ Build a system to analyze customer demographics upon entering a retail store.
 - Public datasets like UTK Faces and CK+ are recommended.
 
 **Links to Training Data:**
-- [1.1_age_input_output](https://drive.google.com/drive/folders/1tYXOGJZqFljAyC6gqsSusHtDe2oh-PJo?usp=drive_link)
-- [1.2 _gender_input_output](https://drive.google.com/drive/folders/1qe_HzoRFPb0MSlr1c40k3lPam6xJGHSs?usp=drive_link)
-- [1.3_emotion _input_out](https://drive.google.com/drive/folders/1Mk-4DWA9d2a9n6C8ygG8FUKvVqmfbAzP?usp=drive_link)
-- [1.4_test_input](https://drive.google.com/drive/folders/14hHc5vWHe51NtYA4eRr7sj2HWjkYhZLB?usp=drive_link)
-
+- [UTK Faces](https://susanqq.github.io/UTKFace/)
+- [CK+](https://paperswithcode.com/dataset/ck)
 
 ## Solution Approach
 
